@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C86-D6F3
+
+ Directory of C:\Users\aryan\Desktop\my Project
+
+05/19/2021  06:17 PM    <DIR>          .
+05/19/2021  06:17 PM    <DIR>          ..
+05/19/2021  06:17 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  238,587,691,008 bytes free
